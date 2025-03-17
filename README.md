@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/922b502c-50e9-428c-851e-8ba875bf31d8)<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gabriel González</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gabriel González</h1>
 
 
 ## About Me :
