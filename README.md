@@ -5,7 +5,7 @@
 
 - 🏢 I am currently working as a **FullStack Software Engineer** at [G&E Web Solutions](https://gewebsolutions.com/)
 - 🎓 Studies for Software Engineering at [Universidad Tecnológica de Puebla](https://www.utpuebla.edu.mx/)
-- 🏡'Lives in **Puebla, México.**
+- 🏡Lives in **Puebla, México.**
 - ⚡ **Fun Facts** : 🍕 🚞 🎥
 
 <br>
