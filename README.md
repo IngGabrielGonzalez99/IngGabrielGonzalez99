@@ -24,7 +24,7 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/tailwind_css.png"/> <img src="https://img.icons8.com/color/48/typescript.png"/> 
 
 
 
@@ -38,4 +38,4 @@
 <br>
 
 
-Last edited on: 16/03/2025
+Last edited on: 19/08/2025
