@@ -36,7 +36,7 @@
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 
 <br>
-![Profile views](https://komarev.com/ghpvc/?username=IngGabrielGonzalez99&label=Profile%20views&color=0e75b6&style=flat)
+<img src="https://komarev.com/ghpvc/?username=IngGabrielGonzalez99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 
 Last edited on: 12/09/2025
